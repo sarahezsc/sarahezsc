@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahezsc
-- 👀 I’m interested in linguistics & language science
+- 👀 I’m interested in linguistics/language science
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on nothing atm!
 - 📫 How to reach me schaech17@gmail.com
